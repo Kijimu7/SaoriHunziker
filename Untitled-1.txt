@@ -1,0 +1,28 @@
+<div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+                <a href="https://kijimu7.github.io/PixelArt/"> <img src="https://user-images.githubusercontent.com/31402838/55542286-90187980-567b-11e9-85f9-fb280caa62ac.png" alt="pixel art maker"></a>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+               <a href="https://kijimu7.github.io/Portfolio2/#Portfolio"> <img src="https://user-images.githubusercontent.com/31402838/55542027-0c5e8d00-567b-11e9-9b96-3671df15a15f.png" alt="portfolio"></a></div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+            <a href="https://github.com/Kijimu7/Co-op-Child-Care"><img src="https://user-images.githubusercontent.com/31402838/55542027-0c5e8d00-567b-11e9-9b96-3671df15a15f.png" alt="Co-op-Child-Care"></a>
+        </div>
+        </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+            <img src="https://user-images.githubusercontent.com/31402838/46525888-a1eea080-c841-11e8-8069-ba5468a51160.png" alt="pic">
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+            <img src="https://user-images.githubusercontent.com/31402838/46525957-d95d4d00-c841-11e8-849f-2af25c695219.png" alt="pic">
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content1 text-center">
+            <img src="https://user-images.githubusercontent.com/31402838/46525972-dbbfa700-c841-11e8-81ab-abb45eb8cbe3.png" alt="pic">
+    </div>
+    </div>
+</div>
