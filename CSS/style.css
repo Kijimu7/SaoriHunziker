@@ -25,6 +25,7 @@ li{
 
 .flex-column { 
     max-width : 300px;
+    margin:auto;
     
 }
 
@@ -32,6 +33,9 @@ li{
     background: #f9f9f9;
 }
 
-img {
-    margin: 30px;
-}
+.img-fluid {
+    max-width: 290px;
+    height: 200px;
+    margin-bottom: 5%;
+    
+        }
