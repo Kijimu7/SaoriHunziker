@@ -1,9 +1,12 @@
 .navbar{
     background: #f9f9f9;
-}
+  }
 .navbar-brand{
     color: black;
     margin-left: 5%;
+    font-size: 120%;
+    font-family: 'Dokdo', cursive;
+    font-size: 40px;
 }
 .navbar-dark{
     background-color: rgb(248, 245, 245);
@@ -11,6 +14,7 @@
 .navbar-nav{
     margin-right: 10%;
 }
+
 li{
     margin:5%;
 }
@@ -18,10 +22,15 @@ li{
     margin: auto;
 }
 .jumbotron{
-    margin-top: 30px;
-    background: rgba(35, 231, 45, 0.507);
+    background: url(https://user-images.githubusercontent.com/31402838/55682117-94df6680-58e3-11e9-8507-bd6e6263a205.png) top center;
+    background-size: cover;
+    margin-top: 1em;
+    padding-top: 30em;
+    padding-bottom: 3em;
 }
-
+.jumbotron p{
+    margin-top: 2em;
+}
 .navbar-toggler-icon{
     background: gray;
 }
@@ -51,4 +60,12 @@ footer{
     margin-top:10%;
     padding: 1%;
     background: black;
+}
+
+/*.home{
+    background: url(https://user-images.githubusercontent.com/31402838/38962871-3659d788-4324-11e8-8f23-e9ad96cd1d6c.jpg) no-repeat 50% 50%;
+    display:table;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
 }
