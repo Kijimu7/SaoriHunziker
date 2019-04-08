@@ -22,10 +22,10 @@ li{
     margin: auto;
 }
 .jumbotron{
-    background: url(https://user-images.githubusercontent.com/31402838/55682117-94df6680-58e3-11e9-8507-bd6e6263a205.png) top center;
+    background: url(https://user-images.githubusercontent.com/31402838/55704420-e265dd00-5990-11e9-89ed-5198ac6acaed.png) top center;
     background-size: cover;
     margin-top: 1em;
-    padding-top: 30em;
+    padding-top: 50em;
     padding-bottom: 3em;
 }
 .jumbotron p{
@@ -42,6 +42,7 @@ li{
 .flex-column { 
     max-width : 300px;
     margin:auto;
+    margin-top: 2%
     
 }
 
@@ -59,7 +60,12 @@ footer{
     max-width: 100%;
     margin-top:10%;
     padding: 1%;
-    background: black;
+    background: rgb(248, 245, 245);
+    
+}
+.icon{
+    margin: 0 auto;
+    text-align: center;
 }
 
 /*.home{
